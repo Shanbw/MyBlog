@@ -25,3 +25,4 @@ csdn主页：https://blog.csdn.net/qq_41743796?type=lately&spm=1010.2135.3001.53
 ## 其他
 ### 图像处理
 - [手把手教你本地安装GraphicsMagick](https://juejin.cn/post/6964395592348860446)
+- [Springboot集成GraphicsMagick](https://juejin.cn/post/6965194338053816327/)
