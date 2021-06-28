@@ -28,3 +28,6 @@ csdn主页：https://blog.csdn.net/qq_41743796?type=lately&spm=1010.2135.3001.53
 - [Springboot集成GraphicsMagick](https://juejin.cn/post/6965194338053816327/)
 - [GraphicsMagick实现云服务商基础图片处理](https://juejin.cn/post/6968832318957944839/)
 - [GraphicsMagick文字水印及中文乱码问题解决](https://juejin.cn/post/6970206710455599140/)
+
+### 存储服务
+- [Springboot结合minio搭建简单的存储服务](https://juejin.cn/post/6978304433809522719)
