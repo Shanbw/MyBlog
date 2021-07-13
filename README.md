@@ -17,6 +17,9 @@ csdn主页：https://blog.csdn.net/qq_41743796?type=lately&spm=1010.2135.3001.53
 - [死磕JUC之AQS源码，一篇就够](https://juejin.cn/post/6844904182785245198)
 
 
+## 设计模式
+- [深入理解单例模式（面试必备）](https://juejin.cn/post/6984065491560038413)
+
 ## 常用中间件
 ### Redis
 - [吐血整理：Redis的基本数据类型，你懂多少？](https://juejin.im/post/5eda1f92e51d45785f51d78e)
