@@ -35,3 +35,6 @@ csdn主页：https://blog.csdn.net/qq_41743796?type=lately&spm=1010.2135.3001.53
 
 ### 存储服务
 - [Springboot结合minio搭建简单的存储服务](https://juejin.cn/post/6978304433809522719)
+
+### 媒体处理
+- [媒体处理-音视频 HLS 加密服务设计](https://juejin.cn/post/7066670799259697159)
