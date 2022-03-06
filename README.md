@@ -24,6 +24,9 @@ csdn主页：https://blog.csdn.net/qq_41743796?type=lately&spm=1010.2135.3001.53
 ### Redis
 - [吐血整理：Redis的基本数据类型，你懂多少？](https://juejin.im/post/5eda1f92e51d45785f51d78e)
 
+### MySQL
+- [MySQL——百亿大表拆分实践](https://juejin.cn/post/7069231909179490341)
+
 
 ## 其他
 ### 图像处理
